@@ -39,3 +39,18 @@ python Final_project_main.py
   ```bash
    python Final_project_api.py
    
+
+
+Reports:
+
+- `Amazon_sales_dataprocessing_synopsis.pdf`: Detailed data processing and EDA synopsis for the project.
+
+
+
+
+
+
+
+
+
+
