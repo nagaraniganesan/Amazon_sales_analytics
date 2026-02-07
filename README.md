@@ -16,6 +16,15 @@ End‑to‑end analytics project on Amazon‑style sales data.
 - `Final_project_api.py`: Flask API endpoints.
 - `Amazon.csv`: sample dataset.
 
+- ## Exploratory Data Analysis (EDA)
+
+The project includes EDA on the Amazon sales data:
+- Checked missing values, duplicates, and basic summary statistics.
+- Analyzed sales by category, payment method, and time period.
+- Created visualizations (bar charts, pie charts, line plots) to show revenue trends and top‑selling products.
+- Identified key customer and product patterns to guide the ML models.
+
+
 ## How to run
 1. Install dependencies:
    ```bash
