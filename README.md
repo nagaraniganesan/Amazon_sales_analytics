@@ -1,6 +1,6 @@
 # Amazon Sales Analytics
 
-End‑to‑end analytics project on Amazon‑style sales data.
+End‑to‑end analytics project on Amazon‑style sales data, covering EDA, machine learning models, a GUI dashboard, and a Flask API.
 
 ## Features
 - Data cleaning and exploratory data analysis (EDA).
@@ -16,7 +16,7 @@ End‑to‑end analytics project on Amazon‑style sales data.
 - `Final_project_api.py`: Flask API endpoints.
 - `Amazon.csv`: sample dataset.
 
-- ## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The project includes EDA on the Amazon sales data:
 - Checked missing values, duplicates, and basic summary statistics.
@@ -24,20 +24,20 @@ The project includes EDA on the Amazon sales data:
 - Created visualizations (bar charts, pie charts, line plots) to show revenue trends and top‑selling products.
 - Identified key customer and product patterns to guide the ML models.
 
-
 ## How to run
+
 1. Install dependencies:
-   ```bash
+    ```bash
    pip install -r requirements.txt
 
-2.Run Main Script: 
-      ```bash
-     python Final_project_main.py
+2.Run the main script:
 
-3.Run API:
+bash
+python Final_project_main.py
+
+3.Run the API:
+
+bash
+python Final_project_api.py
    ```bash
-    python Final_project_api.py
-
-
-3.
-3
+   pip install -r requirements.txt
