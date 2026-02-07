@@ -39,5 +39,4 @@ python Final_project_main.py
 
 ```bash
 python Final_project_api.py
-   ```bash
-   pip install -r requirements.txt
+   
