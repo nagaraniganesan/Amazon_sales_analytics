@@ -37,9 +37,8 @@ The project includes EDA on the Amazon sales data:
 
 3.Run the API:
 
-  ```bash
-   python Final_project_api.py
-   
+```bash
+  python Final_project_api.py
 
 Reports:
 
