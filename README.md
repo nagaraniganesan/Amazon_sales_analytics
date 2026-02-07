@@ -12,9 +12,9 @@ End‑to‑end analytics project on Amazon‑style sales data, covering EDA, mac
 - Flask API to serve model predictions.
 
 ## Files
-- `Final_project_main.py`: main analysis, models, and GUI.
-- `Final_project_api.py`: Flask API endpoints.
-- `Amazon.csv`: sample dataset.
+- `src/Final_project_main.py`: main analysis, models, and GUI.
+- `src/Final_project_api.py`: Flask API endpoints.
+- `data/Amazon.csv`: sample dataset.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -33,13 +33,13 @@ The project includes EDA on the Amazon sales data:
 2.Run the main script:
 
 ```bash
-python Final_project_main.py
+  python Final_project_main.py
 
 3.Run the API:
+
   ```bash
    python Final_project_api.py
    
-
 
 Reports:
 
