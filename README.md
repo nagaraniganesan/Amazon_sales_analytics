@@ -32,12 +32,12 @@ The project includes EDA on the Amazon sales data:
 
 2.Run the main script:
 
-bash
+```bash
 python Final_project_main.py
 
 3.Run the API:
 
-bash
+```bash
 python Final_project_api.py
    ```bash
    pip install -r requirements.txt
