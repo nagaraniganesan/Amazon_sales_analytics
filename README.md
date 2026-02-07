@@ -20,3 +20,15 @@ End‑to‑end analytics project on Amazon‑style sales data.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+2.Run Main Script: 
+      ```bash
+     python Final_project_main.py
+
+3.Run API:
+   ```bash
+    python Final_project_api.py
+
+
+3.
+3
